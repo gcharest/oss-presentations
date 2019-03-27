@@ -21,6 +21,11 @@ node_modules
 /tests/e2e/videos/
 /tests/e2e/screenshots/
 
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
 Gruntfile.js
 
 # local env files

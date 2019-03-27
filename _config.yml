@@ -1,6 +1,12 @@
 title: Open Source Software Presentations
 description: >-
     This site hosts the presentations that will be provided during the Open Source Software course for the DevOps stream of the Digital Academy.
+baseurl: "/oss-presentation"
 url: "https://gcharest.github.io/"
+
+author: Guillaume Charest
+twitter_username: GuillCharest
+github_username:  gcharest
+
 markdown: kramdown
 theme: jekyll-theme-architect
