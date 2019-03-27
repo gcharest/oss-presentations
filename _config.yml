@@ -1,1 +1,6 @@
+title: Open Source Software Presentations
+description: >-
+    This site hosts the presentations that will be provided during the Open Source Software course for the DevOps stream of the Digital Academy.
+url: "https://gcharest.github.io/"
+markdown: kramdown
 theme: jekyll-theme-architect
