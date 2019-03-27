@@ -1,3 +1,8 @@
+---
+title: Open Source Software Presentations
+layout: home
+---
+
 # Open Source Software Presentations
 
 * [Using Open Source Software](using/index.html)
