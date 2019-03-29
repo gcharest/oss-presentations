@@ -1,6 +1,6 @@
 ---
 title: Open Source Software Presentations
-layout: home
+layout: default
 ---
 
 # Open Source Software Presentations
