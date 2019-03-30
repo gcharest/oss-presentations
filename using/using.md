@@ -1,14 +1,24 @@
 # Using Open Source Software
 
+<!--markdownlint-disable MD035-->
+
+---
+
+**What is it?**
+
 ---
 
 ## Definitions
 
-------
+---
 
 ## Algorithm
 
-> Process or steps to resolve a problem.
+> "A procedure for solving a mathematical problem [...] in a finite number of steps that frequently involves repetition of an operation"
+>
+> **Broadly**: "A step-by-step procedure for solving a problem or accomplishing some end"[^fn]
+
+[^fn]: https://www.merriam-webster.com/dictionary/algorithm
 
 ------
 
@@ -30,13 +40,17 @@
 
 ## Software
 
-> The programs and other operating information used by a computer.
+> The programs and other operating information used by a computer. (runtime)
 
 ------
 
 ## Simplified View
 
 ![software simplified view](algo-code-soft.png)
+
+---
+
+Intellectual property is the legal right to ideas, inventions and creations in the industrial, scientific, literary and artistic fields. It also covers symbols, names, images, designs and models used in business. Without realizing it, your business may be creating IP assets that should be protected.
 
 ---
 
@@ -48,11 +62,23 @@ For the purpose of the Government of Canada, we consider the Open Source Initiat
 
 ------
 
+## Open Source Software
+
+>Software available under an open source license.
+
+------
+
 ## It's not open source
 
 If you only have access to the source code.
 
 _You **must** have the rights based on the open source definition._
+
+------
+
+Right to: 
+
+1. 
 
 ---
 
@@ -66,7 +92,7 @@ _You **must** have the rights based on the open source definition._
 
 Permissive:
 
->Allow 
+>Allow you to do pretty much what you want with it
 
 Reciprocal:
 
@@ -126,3 +152,5 @@ Test
 ------
 
 ## Security
+
+<!--markdownlint-enable MD035-->
