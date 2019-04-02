@@ -184,6 +184,17 @@ Jeff McAffer, formerly Director of Microsoft's Open Source Program Office
 
 ## How
 
+* Package Managers
+  * NPM, Anaconda, Maven, CocoaPods, RubyGems, etc.
+* Frameworks
+  * Bootstrap, Spring, React.js, Spark, Django, .NET, etc.
+* Social Development Platforms
+  * GitHub, GitLab, BitBucket, GCcode*
+
+---
+
+## How
+
 * Be secure
   * Know your dependencies 
   * Assess the components
