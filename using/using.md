@@ -92,21 +92,21 @@ For the purpose of the Government of Canada, we consider the Open Source Initiat
 
 If you only have access to the source code.
 
-_You **must** have the rights based on an open source licence._
+>You **must** have the rights based on an open source licence.
 
 ---
 
 ## Types of Open Source Licences
 
-Permissive:
+------
 
->Allow you to do pretty much what you want with it and distribute it under different conditions than you obtained it.
+### Permissive
+
+>Allows you to do pretty much what you want with it and distribute it under different conditions than you obtained it.
 
 ------
 
-## Types of Open Source Licences
-
-Reciprocal:
+### Reciprocal
 
 >Allow you to do pretty much the same but require you to redistribute on the same conditions under which you obtained it.
 
@@ -126,6 +126,7 @@ Choose an Open Source Licence:
 Use [TL;DR Legal](https://tldrlegal.com)
 
 Note:
+
 * Find if it's a permissive or reciprocal licence
 * Provide the main conditions under which you can use it
 
@@ -142,13 +143,15 @@ Note:
 
 ---
 
-## Why bother?
+## Why bother
 
 ---
 
 ## Second Challenge
 
-Build a Web application that displays your name and the course title within the next 5 minutes on your local machine.
+TODO:
+
+Build a Web application that asks for today's date and displays which day it is within the next 5 minutes on your local machine.
 
 ---
 
@@ -157,9 +160,9 @@ Build a Web application that displays your name and the course title within the 
 TODO:
 
 1. Create venv
-1. Install packages
-1. Run Django build
-1. Update the view with name and 
+2. Install packages
+3. Run Django build
+4. Update the view with name and course title
 
 ---
 
@@ -184,6 +187,8 @@ Jeff McAffer, formerly Director of Microsoft's Open Source Program Office
 
 ## How
 
+By using:
+
 * Package Managers
   * NPM, Anaconda, Maven, CocoaPods, RubyGems, etc.
 * Frameworks
@@ -193,12 +198,11 @@ Jeff McAffer, formerly Director of Microsoft's Open Source Program Office
 
 ---
 
-## How
-
-* Be secure
-  * Know your dependencies 
-  * Assess the components
-  * Patch your stuff!
+## Be secure
+  
+* Know your dependencies
+* Assess the components
+* Patch your stuff!
 
 ------
 
@@ -211,29 +215,24 @@ Jeff McAffer, formerly Director of Microsoft's Open Source Program Office
 
 ## Tools
 
-* JFrog X-Ray
 * FOSSA
+* JFrog X-Ray
 * Sonatype
 * Synopsys
 * Etc.
 
 ---
 
-## How
+## Be Compliant
 
-* Be compliant
-  * Know your dependencies
-  * Comply with T&Cs of the licences
+* Know your dependencies
+* Comply with T&Cs of the licences
 
 ------
 
 ## Rights and Responsibilities
 
-_Inbound_
-
-vs
-
-_Outbound_
+Inbound vs Outbound
 
 ------
 
@@ -247,7 +246,7 @@ The terms and conditions under which you will be distributing your software must
 
 ------
 
-![due diligence](due-diligence.png) 
+![due diligence](due-diligence.png)
 
 Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
 
