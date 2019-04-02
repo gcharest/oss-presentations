@@ -76,7 +76,7 @@ See also [A guide to copyright](https://www.ic.gc.ca/eic/site/cipointernet-inter
 Software licences give you certain rights and conditions
 
 ---
-
+Microsoft did a 180 degree
 ## Open Source Software
 
 >Software available under an open source licence.
@@ -123,14 +123,105 @@ Reciprocal:
 
 ## First Challenge
 
-Identify:
+Choose an Open Source Licence:
 
-* 1 Permissive licence
-* 1 Reciprocal licence
+* MIT License (Expat)
+* Apache License 2.0 (Apache-2.0)
+* BSD 3-Clause License (Revised)
+* Mozilla Public License 2.0 (MPL-2.0)
+* GNU General Public License v3 (GPL-3)
+* GNU Affero General Public License v3 (AGPL-3.0)
 
-Explain their main differences using [TL;DR Legal](https://tldrlegal.com/)
+Use [TL;DR Legal](https://tldrlegal.com)
+
+------
+
+|Licence|Permissive|Reciprocal|
+|---|:---:|:---:|
+|MIT|X||
+|Apache2.0|X||
+|BSD-3|X||
+|MPL-2.0||X|
+|GPL 3.0||X|
+|AGPL 3.0||X|
 
 ---
+
+## Why bother?
+
+---
+
+## Second Challenge
+
+Build a Web application that displays your name and the course title within the next 5 minutes on your local machine.
+
+---
+
+## Step by steps
+
+TODO:
+
+1. Create venv
+1. Install packages
+1. Run Django build
+1. Update the view with name and 
+
+---
+
+## Why
+
+It's in the Directive on Management of IT
+
+------
+
+* Don't start with a blank canvas, focus on the added value
+* Speed up development time by reusing existing solutions to common problems
+* Leverage a large community of peers to enhance quality and for wider maintenance
+* Build on top of giants' shoulders and communities
+
+------
+
+>If you want to be at the top of the world, you have to start there.
+
+Jeff McAffer, formerly Director of Microsoft's Open Source Program Office
+
+---
+
+## How
+
+* Be secure
+  * Know your dependencies 
+  * Assess the components
+  * Patch your stuff!
+
+------
+
+## Resources
+
+* MITRE's [Common Vulnerabilities and Exposures (CVE®)](https://cve.mitre.org/)
+* [U.S. National Vulnerability Database (NVD)](https://nvd.nist.gov/)
+
+------
+
+## Tools
+
+* JFrog X-Ray
+* FOSSA
+* Sonatype
+* Synopsys
+* Etc.
+
+---
+
+## How
+
+* Be compliant
+  * Know your dependencies
+  * Comply with T&Cs of the licences
+
+------
+
+## Rights and Responsibilities
 
 _Inbound_
 
@@ -154,11 +245,7 @@ The terms and conditions under which you will be distributing your software must
 
 Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
 
-------------
-
-[What is intellectual property?](https://canadabusiness.ca/government/copyright-and-intellectual-property/what-is-intellectual-property/)
-
-Intellectual Property is the legal right to ideas, inventions and creations in the industrial, scientific, literary and artistic fields. It also covers symbols, names, images, designs and models used in business. Without realizing it, your business may be creating IP assets that should be protected.
+------
 
 ![non compliant example](apache2-gpl-error.png)
 
@@ -172,11 +259,6 @@ Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source So
 
 ------
 
-------
-
-## Resources
-
-TL;DR Legal
 
 ---
 
