@@ -1,5 +1,7 @@
 # Publishing your project as Open Source
 
+<!--markdownlint-disable MD035-->
+
 ---
 
 * Why would you publish your project?
@@ -7,17 +9,28 @@
   * In line with the Directive
   * Find allies in places you did not think of (cities, provinces, civic society, private sector)
   * Find new usage for your software
-  * AIA: 
+    * AIA: Could be reused for Enterprise architecture assessments
   * Adopt best practices in development
+    * Working in the open, you know other people will be able to see your code.
+      * People are more prone to take the time to write better code.
 * How can you do it?
-  * Compliance - Choose your licence
+  * Compliance
+    * Choose your licence based on your desired outcome
+    * Choose your licence based on the components you will be leveraging
   * Security
+    * 2FA
+    * Hash
   * Governance
+    * It is still your project
+    * Need a clear set of expectations as to how development will be done
   * Community
+    * Working in the open may lead to others wanting to contribute
+    * Need to set expections as to what is accepted
+    * Code of conduct
 
 ---
 
-Let's start by creating a repository and upload your project.
+Let's start by creating a repository and uploading your project.
 
 ------
 
@@ -41,13 +54,11 @@ Typically an Assistant Deputy Minister.
 
 ---
 
-## Legal Dimension
+## Compliance
 
-_Inbound_
+Remember:
 
-vs
-
-_Outbound_
+Inbound vs Outbound
 
 ------
 
@@ -87,3 +98,5 @@ Test
 ------
 
 ## Security
+
+<!--markdownlin-enable MD035-->
