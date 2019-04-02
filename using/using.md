@@ -4,11 +4,9 @@
 
 ---
 
-**What is it?**
+## Question
 
----
-
-## Definitions
+What is it Software?
 
 ---
 
@@ -50,7 +48,9 @@
 
 ---
 
-Intellectual property is the legal right to ideas, inventions and creations in the industrial, scientific, literary and artistic fields. It also covers symbols, names, images, designs and models used in business. Without realizing it, your business may be creating IP assets that should be protected.
+[What is intellectual property?](https://canadabusiness.ca/government/copyright-and-intellectual-property/what-is-intellectual-property/)
+
+Intellectual Property is the legal right to ideas, inventions and creations in the industrial, scientific, literary and artistic fields. It also covers symbols, names, images, designs and models used in business. Without realizing it, your business may be creating IP assets that should be protected.
 
 ---
 
@@ -58,13 +58,7 @@ Intellectual property is the legal right to ideas, inventions and creations in t
 
 >Software available under an open source license.
 
-For the purpose of the Government of Canada, we consider the Open Source Initiative's definition of open source as an industry standard: https://opensource.org/docs/definition.php
-
-------
-
-## Open Source Software
-
->Software available under an open source license.
+For the purpose of the Government of Canada, we consider the Open Source Initiative's [definition](https://opensource.org/docs/definition.php) of open source as an industry standard.
 
 ------
 
@@ -76,9 +70,12 @@ _You **must** have the rights based on the open source definition._
 
 ------
 
-Right to: 
+Right to:
 
-1. 
+1. Use the software as you wish
+2. Study the source code
+3. Modify the source code
+4. Distribute the software
 
 ---
 
@@ -92,11 +89,11 @@ Right to:
 
 Permissive:
 
->Allow you to do pretty much what you want with it
+>Allow you to do pretty much what you want with it and distribute it under different conditions than you received.
 
 Reciprocal:
 
->
+>Allow you to do pretty much the same but require you to redistribute on the same conditions under which you obtained it.
 
 ------
 
