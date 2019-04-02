@@ -64,8 +64,6 @@ Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source So
 
 ---
 
-------
-
 ## Intellectual Property
 
 Note:
