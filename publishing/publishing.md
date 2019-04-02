@@ -30,7 +30,32 @@
 
 ---
 
+## Why
+
+------
+
+Directive on Management of Information Technology
+
+>C.2.3.8.3 If a custom-built application is the appropriate option, by default any source code written by the government must be released in an open format via Government of Canada websites and services designated by the Treasury Board of Canada Secretariat
+
+------
+
+Directive on Management of Information Technology
+
+>C.2.3.8.4 All source code must be released under an appropriate open source software license
+
+------
+
+* Encourage [best coding practices](https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)
+* It aligns with our goal of being an open government by releasing [data and information of value to citizens](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108#sec5.1).
+* Find people with similar problems that could be interested in helping you [ORE](https://github.com/canada-ca/ore-ero)
+* Find new usage to your software [AIA](https://github.com/canada-ca/aia-eia-js)
+
+---
+
 Let's start by creating a repository and uploading your project.
+
+(Need instructions or we do live?)
 
 ------
 
@@ -42,7 +67,7 @@ Which did you pick and why?
 
 ## Crown Copyright
 
-Technically, the work we do in the office is Crown Copyright, belongs to Her Majesty in right of Canada.
+Technically, the work we do in the office is Crown Copyright, it belongs to Her Majesty in right of Canada.
 
 ------
 
@@ -69,39 +94,5 @@ Inbound vs Outbound
 ![due diligence](due-diligence.png)
 
 Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 54.
-
----
-
-## Why
-
-------
-
-Directive on Management of Information Technology
-
->C.2.3.8.3 If a custom-built application is the appropriate option, by default any source code written by the government must be released in an open format via Government of Canada websites and services designated by the Treasury Board of Canada Secretariat
-
-------
-
-Directive on Management of Information Technology
-
->C.2.3.8.4 All source code must be released under an appropriate open source software license
-
-------
-
-* Encourage [best coding practices](https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)
-* It aligns with our goal of being an open government by releasing [data and information of value to citizens](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108#sec5.1).
-* Find people with similar problems that could be interested in helping you [ORE](https://github.com/canada-ca/ore-ero)
-* Find new usage to your software [AIA](https://github.com/canada-ca/aia-eia-js)
-
----
-
-## Intellectual Property
-
-Note:
-Test
-
-------
-
-## Security
 
 <!--markdownlin-enable MD035-->
