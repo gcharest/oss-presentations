@@ -1,4 +1,18 @@
-# Using Open Source Software
+# Publishing your project as Open Source
+
+---
+
+* Why would you publish your project?
+  * Aligned with our vision of working in the open
+  * In line with the Directive
+  * Find allies in places you did not think of (cities, provinces, civic society)
+  * Find new usage for your software
+  * Adopt best practices in development
+* How can you do it?
+  * Compliance - Choose your licence
+  * Security
+  * Governance
+  * Community
 
 ## As part of your development process
 

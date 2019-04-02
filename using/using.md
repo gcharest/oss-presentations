@@ -6,7 +6,19 @@
 
 ## Question
 
-What is it Software?
+* What is Open Source Software?
+  * Definitions of Software
+  * Licences
+* Why should we be using it for development purposes?
+  * Challenge: build a WebApp in the next 15 minutes
+  * Software Engineering Economics (Stephen Walli)
+    * Don't start from a blank page
+    * Speeds up your development by focussing on the added value, specific to your needs
+    * That's how we've been working in the past but we need to be better at it.
+  * Build on top of of giants (and smaller geniuses as well)
+* How can we use Open Source Software properly?
+  * Security
+  * Compliance
 
 ---
 
