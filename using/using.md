@@ -6,19 +6,7 @@
 
 ## Question
 
-* What is Open Source Software?
-  * Definitions
-  * Licences
-* Why should we be using it for development purposes?
-  * Challenge: build a WebApp in the next 15 minutes
-  * Software Engineering Economics (Stephen Walli)
-    * Don't start from a blank page
-    * Speeds up your development by focussing on the added value, specific to your needs
-    * That's how we've been working in the past but we need to be better at it.
-  * Build on top of of giants (and smaller geniuses as well)
-* How can we use Open Source Software properly?
-  * Security
-  * Compliance
+What is open source software?
 
 ---
 
@@ -50,8 +38,7 @@
 
 ## Software
 
->The programs and other operating information used by a## As part of your development process
- computer. (runtime)
+>The programs and other operating information used by a  computer. (at runtime)
 
 ------
 
@@ -76,12 +63,12 @@ See also [A guide to copyright](https://www.ic.gc.ca/eic/site/cipointernet-inter
 Software licences give you certain rights and conditions
 
 ---
-Microsoft did a 180 degree
+
 ## Open Source Software
 
 >Software available under an open source licence.
 
-For the purpose of the Government of Canada, we consider the Open Source Initiative's [definition](https://opensource.org/docs/definition.php) of open source as an industry standard.
+For the purpose of the Government of Canada, we consider the Open Source Initiative's [definition](https://opensource.org/docs/definition.php) the current standard.
 
 ------
 
@@ -105,7 +92,7 @@ For the purpose of the Government of Canada, we consider the Open Source Initiat
 
 If you only have access to the source code.
 
-_You **must** have the rights based on the open source definition through an open source licence._
+_You **must** have the rights based on an open source licence._
 
 ---
 
@@ -114,6 +101,10 @@ _You **must** have the rights based on the open source definition through an ope
 Permissive:
 
 >Allow you to do pretty much what you want with it and distribute it under different conditions than you obtained it.
+
+------
+
+## Types of Open Source Licences
 
 Reciprocal:
 
@@ -133,6 +124,10 @@ Choose an Open Source Licence:
 * GNU Affero General Public License v3 (AGPL-3.0)
 
 Use [TL;DR Legal](https://tldrlegal.com)
+
+Note:
+* Find if it's a permissive or reciprocal licence
+* Provide the main conditions under which you can use it
 
 ------
 
@@ -198,7 +193,7 @@ Jeff McAffer, formerly Director of Microsoft's Open Source Program Office
 
 ## Resources
 
-* MITRE's [Common Vulnerabilities and Exposures (CVE®)](https://cve.mitre.org/)
+* MITRE's [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
 * [U.S. National Vulnerability Database (NVD)](https://nvd.nist.gov/)
 
 ------
@@ -257,24 +252,30 @@ Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source So
 
 Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
 
-------
-
-
 ---
 
-## Intellectual Property
+## Third Challenge
 
-Note:
-Test
+Find the errors
+
+>Clone projects
 
 ------
 
-## Security
+Error 1
+
+Known security vulnerability
+
+------
+
+Error 2
+
+Project online without an OSS licence
+
+------
+
+Error 3
+
+Incompatible Licence
 
 <!--markdownlint-enable MD035-->
-
-------
-
-[What is intellectual property?](https://canadabusiness.ca/government/copyright-and-intellectual-property/what-is-intellectual-property/)
-
-Intellectual Property is the legal right to ideas, inventions and creations in the industrial, scientific, literary and artistic fields. It also covers symbols, names, images, designs and models used in business. Without realizing it, your business may be creating IP assets that should be protected.
