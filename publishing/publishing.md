@@ -14,7 +14,15 @@
   * Governance
   * Community
 
-## As part of your development process
+------
+
+## Crown Copyright
+
+Technically, the work we do in the office is Crown Copyright, belongs to Her Majesty in right of Canada.
+
+------
+
+## Licence
 
 ---
 

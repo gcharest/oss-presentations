@@ -7,7 +7,7 @@
 ## Question
 
 * What is Open Source Software?
-  * Definitions of Software
+  * Definitions
   * Licences
 * Why should we be using it for development purposes?
   * Challenge: build a WebApp in the next 15 minutes
@@ -24,9 +24,9 @@
 
 ## Algorithm
 
-> "A procedure for solving a mathematical problem [...] in a finite number of steps that frequently involves repetition of an operation"
+>"A procedure for solving a mathematical problem [...] in a finite number of steps that frequently involves repetition of an operation"
 >
-> **Broadly**: "A step-by-step procedure for solving a problem or accomplishing some end"[^fn]
+>**Broadly**: "A step-by-step procedure for solving a problem or accomplishing some end"[^fn]
 
 [^fn]: https://www.merriam-webster.com/dictionary/algorithm
 
@@ -34,7 +34,7 @@
 
 ## Source Code
 
-> Source code is the version of a computer program as it is originally written (i.e., typed into a computer) by a human in a programming language.[^fn]
+>Source code is the version of a computer program as it is originally written (i.e., typed into a computer) by a human in a programming language.[^fn]
 
 [^fn]:"http://www.linfo.org/object_code.html"
 
@@ -42,7 +42,7 @@
 
 ## Object Code
 
-> Object code is the output of a compiler after it processes source code.[^fn]
+>Object code is the output of a compiler after it processes source code.[^fn]
 
 [^fn]:"http://www.linfo.org/object_code.html"
 
@@ -50,7 +50,8 @@
 
 ## Software
 
-> The programs and other operating information used by a computer. (runtime)
+>The programs and other operating information used by a## As part of your development process
+ computer. (runtime)
 
 ------
 
@@ -60,17 +61,43 @@
 
 ---
 
-[What is intellectual property?](https://canadabusiness.ca/government/copyright-and-intellectual-property/what-is-intellectual-property/)
+## Copyright
 
-Intellectual Property is the legal right to ideas, inventions and creations in the industrial, scientific, literary and artistic fields. It also covers symbols, names, images, designs and models used in business. Without realizing it, your business may be creating IP assets that should be protected.
+>Copyright is the exclusive legal right to produce, reproduce, publish or perform an original literary, artistic, dramatic or musical work.
+
+Source: [Canadian Intellectual Property Office - What is copyright?](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/wr03719.html?Open&wt_src=cipo-cpyrght-main)
+
+See also [A guide to copyright](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/h_wr02281.html)
+
+------
+
+## Copyright & Licences
+
+Software licences give you certain rights and conditions
 
 ---
 
 ## Open Source Software
 
->Software available under an open source license.
+>Software available under an open source licence.
 
 For the purpose of the Government of Canada, we consider the Open Source Initiative's [definition](https://opensource.org/docs/definition.php) of open source as an industry standard.
+
+------
+
+## Basic Rights
+
+1. Use the software as you wish
+2. Study the source code
+3. Modify the source code
+4. Redistribute the software
+
+------
+
+## Conditions
+
+1. Notice
+2. Derived works
 
 ------
 
@@ -78,36 +105,32 @@ For the purpose of the Government of Canada, we consider the Open Source Initiat
 
 If you only have access to the source code.
 
-_You **must** have the rights based on the open source definition._
-
-------
-
-Right to:
-
-1. Use the software as you wish
-2. Study the source code
-3. Modify the source code
-4. Distribute the software
+_You **must** have the rights based on the open source definition through an open source licence._
 
 ---
 
-## Legal Dimension
-
->An open source license is the owner of IP granting you certain rights under specific terms and conditions.
-
-------
-
-## Types of Licenses
+## Types of Open Source Licences
 
 Permissive:
 
->Allow you to do pretty much what you want with it and distribute it under different conditions than you received.
+>Allow you to do pretty much what you want with it and distribute it under different conditions than you obtained it.
 
 Reciprocal:
 
 >Allow you to do pretty much the same but require you to redistribute on the same conditions under which you obtained it.
 
-------
+---
+
+## First Challenge
+
+Identify:
+
+* 1 Permissive licence
+* 1 Reciprocal licence
+
+Explain their main differences using [TL;DR Legal](https://tldrlegal.com/)
+
+---
 
 _Inbound_
 
@@ -131,7 +154,11 @@ The terms and conditions under which you will be distributing your software must
 
 Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
 
-------
+------------
+
+[What is intellectual property?](https://canadabusiness.ca/government/copyright-and-intellectual-property/what-is-intellectual-property/)
+
+Intellectual Property is the legal right to ideas, inventions and creations in the industrial, scientific, literary and artistic fields. It also covers symbols, names, images, designs and models used in business. Without realizing it, your business may be creating IP assets that should be protected.
 
 ![non compliant example](apache2-gpl-error.png)
 
@@ -163,3 +190,9 @@ Test
 ## Security
 
 <!--markdownlint-enable MD035-->
+
+------
+
+[What is intellectual property?](https://canadabusiness.ca/government/copyright-and-intellectual-property/what-is-intellectual-property/)
+
+Intellectual Property is the legal right to ideas, inventions and creations in the industrial, scientific, literary and artistic fields. It also covers symbols, names, images, designs and models used in business. Without realizing it, your business may be creating IP assets that should be protected.
