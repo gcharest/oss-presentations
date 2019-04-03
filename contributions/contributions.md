@@ -29,7 +29,7 @@ Note:
 
 ---
 
-## What
+## What to contribute
 
 * Source code
 * Documentation
@@ -40,14 +40,11 @@ Note:
 
 Note:
 
-Events:
-
-* helps build the community
-* opportunity to learn
+Events help build the community provide opportunity to learn
 
 ---
 
-## How
+## How to contribute
 
 ---
 
@@ -83,24 +80,16 @@ Note:
 
 * Templates
 * Contributor Licence Agreement (CLA)
-
-* Developer Certificate of Origin (DCO)
-
-## Legal Dimension
-
-------
-
-## Intellectual Property
-
-Note:
-Test
+  * Complex, Legal Contract
+  * Might even request transfer of IP to project owners
+* [Developer Certificate of Origin (DCO)](https://developercertificate.org/)
+  * Lightweight
+  * "I have the right to submit this"
 
 ------
 
-## Security
+## Approvals
 
----
-
-## Forms of Contributions
+You're spending work time, should be part of your workplan
 
 <!--markdownlint-enable MD035-->
