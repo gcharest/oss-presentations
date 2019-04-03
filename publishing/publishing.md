@@ -85,6 +85,7 @@ Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source So
 ## Choice
 
 Depends on:
+
 * the open source components your using
 * your business goals
 
@@ -137,6 +138,7 @@ You should consider managing expectations and the community that may coalesce ro
 * README.md
 * CONTRIBUTING.md
 * SECURITY.md
+* CODE_OF_CONDUCT.md*
 
 ---
 
@@ -145,4 +147,4 @@ You should consider managing expectations and the community that may coalesce ro
 [Canada-ca Templates](https://github.com/canada-ca/template-gabarit)
 
 ---
-<!--markdownlin-enable MD035-->
+<!--markdownlint-enable MD035-->
