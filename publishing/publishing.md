@@ -46,6 +46,8 @@ Note:
 
 Add a licence of your choice.
 
+------
+
 Which did you pick and why?
 
 ---
@@ -139,6 +141,10 @@ You should consider managing expectations and the community that may coalesce ro
 * CONTRIBUTING.md
 * SECURITY.md
 * CODE_OF_CONDUCT.md*
+
+------
+
+Let's have a look at your projects
 
 ---
 
