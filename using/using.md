@@ -132,17 +132,6 @@ Note:
 * Find out if it's a permissive or reciprocal licence
 * Provide the main conditions under which you can use it
 
-------
-
-|Licence|Permissive|Reciprocal|
-|---|:---:|:---:|
-|MIT|X||
-|Apache2.0|X||
-|BSD-3|X||
-|MPL-2.0||X|
-|GPL 3.0||X|
-|AGPL 3.0||X|
-
 ---
 
 ## Why bother
