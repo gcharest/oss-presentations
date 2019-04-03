@@ -267,22 +267,10 @@ Find the errors
 
 >Clone projects
 
-------
+Note:
 
-Error 1
-
-Known security vulnerability
-
-------
-
-Error 2
-
-Project online without an OSS licence
-
-------
-
-Error 3
-
-Incompatible Licence
+Error 1: Known security vulnerability
+Error 2: Project online without an OSS licence
+Error 3: Incompatible Licence
 
 <!--markdownlint-enable MD035-->
