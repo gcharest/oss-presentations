@@ -1,23 +1,90 @@
 # Contributing to an Open Source Project
 
----
-
-* What can you contribute?
-  * Source code
-  * Documentation
-  * Translation
-  * Issues and bugs
-  * Security vulnerability
-* Why should you contribute?
-  * In line with the directive on Management of IT
-  * Instead of maintaining your own version, you can contribute to the project
-    * Contributions that make it to the project get maintained by the community
-* How can you contribute?
-
-
-
+<!--markdownlint-disable MD035-->
 
 ---
+
+## Why
+
+------
+
+Instead of maintaining your own version, you can contribute to the project
+
+Note:
+
+* Maintaining a project is hard
+* Takes time and resources
+* Always new priorities
+* Same as using OSS: leverage the mass of the community
+
+------
+
+Contributions that make it to the project get maintained by the community
+
+Note:
+
+* Everyone benefit from it
+  * Others: new features
+  * You: maintained updates
+
+---
+
+## What
+
+* Source code
+* Documentation
+* Translation
+* Issue and bug
+* Security vulnerability
+* Events
+
+Note:
+
+Events:
+
+* helps build the community
+* opportunity to learn
+
+---
+
+## How
+
+---
+
+1. Find the project repository
+1. Verify the Licence
+1. Verify the Contributing Process and Policies
+1. Look at the documentation and the issues
+1. Seek approvals (if necessary)
+
+------
+
+## Project Repository
+
+* GitHub
+* GitLab
+* BitBucket
+
+All are social coding platforms to a varying degree
+
+------
+
+## Licence
+
+If there's no open source licence...
+
+Note:
+
+[https://github.com/canada-ca/blog-dto](https://github.com/canada-ca/blog-dto)
+
+------
+
+## Process and Policies
+
+* Templates
+* Contributor Licence Agreement (CLA)
+
+* Developer Certificate of Origin (DCO)
 
 ## Legal Dimension
 
@@ -36,4 +103,4 @@ Test
 
 ## Forms of Contributions
 
-
+<!--markdownlint-enable MD035-->
