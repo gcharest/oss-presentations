@@ -54,6 +54,8 @@ What is open source software?
 
 Source: [Canadian Intellectual Property Office - What is copyright?](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/wr03719.html?Open&wt_src=cipo-cpyrght-main)
 
+------
+
 See also [A guide to copyright](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/h_wr02281.html)
 
 ------
@@ -84,7 +86,7 @@ For the purpose of the Government of Canada, we consider the Open Source Initiat
 ## Conditions
 
 1. Notice
-2. Derived works
+2. Derived work's licence
 
 ------
 
@@ -106,7 +108,7 @@ If you only have access to the source code.
 
 ------
 
-### Reciprocal
+### Reciprocal (Copyleft)
 
 >Allow you to do pretty much the same but require you to redistribute on the same conditions under which you obtained it.
 
@@ -127,7 +129,7 @@ Use [TL;DR Legal](https://tldrlegal.com)
 
 Note:
 
-* Find if it's a permissive or reciprocal licence
+* Find out if it's a permissive or reciprocal licence
 * Provide the main conditions under which you can use it
 
 ------
@@ -152,6 +154,8 @@ Note:
 TODO:
 
 Build a Web application that asks for today's date and displays which day it is within the next 5 minutes on your local machine.
+
+The application should have user authentication, content administration, security builtin.
 
 ---
 
@@ -203,6 +207,10 @@ By using:
 * Know your dependencies
 * Assess the components
 * Patch your stuff!
+
+Note:
+
+Equifax
 
 ------
 
