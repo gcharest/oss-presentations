@@ -190,13 +190,13 @@ Jeff McAffer, formerly Director of Microsoft's Open Source Program Office
 
 ------
 
->* 96 percent of the scanned applications contain open source components, with an average 257 components per application, and that
+>96 percent of the scanned applications contain open source components, with an average 257 components per application, and that
 
 HelpNetSecurity - [The percentage of open source code in proprietary apps is rising](https://www.helpnetsecurity.com/2018/05/22/open-source-code-security-risk/)
 
 ------
 
->* The average percentage of open source in the codebases of the applications scanned grew from 36% last year to 57%, suggesting that a large number of applications now contain much more open source than proprietary code.
+>The average percentage of open source in the codebases of the applications scanned grew from 36% last year to 57%, suggesting that a large number of applications now contain much more open source than proprietary code.
 
 HelpNetSecurity - [The percentage of open source code in proprietary apps is rising](https://www.helpnetsecurity.com/2018/05/22/open-source-code-security-risk/)
 
