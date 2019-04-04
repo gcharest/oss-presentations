@@ -62,8 +62,6 @@ Events help build the community provide opportunity to learn
 * GitLab
 * BitBucket
 
-All are social coding platforms to a varying degree
-
 ------
 
 ## Licence
@@ -91,5 +89,35 @@ Note:
 ## Approvals
 
 You're spending work time, should be part of your workplan
+
+Note:
+
+Not all departments will be ready. 
+May require additional guidance and support.
+
+---
+
+## Let's try a contribution
+
+[https://github.com/cds-snc/etait-ici](https://github.com/cds-snc/etait-ici)
+
+------
+
+## Another contribution
+
+1. Find one of the team's project on GitHub
+2. Create:
+   1. 1x Issue
+   2. 1x Pull Request
+
+---
+
+## Manage the contributions
+
+1. Review the pull requests on your project
+2. Ask for a modification to the pull request
+3. Once the change has been done
+   1. Accept the PR
+   2. Merge the PR
 
 <!--markdownlint-enable MD035-->
