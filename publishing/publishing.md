@@ -184,5 +184,4 @@ Let's have a look at your projects
 
 [Canada-ca Templates](https://github.com/canada-ca/template-gabarit)
 
----
 <!--markdownlint-enable MD035-->
