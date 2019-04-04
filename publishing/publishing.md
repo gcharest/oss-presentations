@@ -56,7 +56,6 @@ Which did you pick and why?
 
 Technically, the work we do in the office is Crown Copyright, it belongs to Her Majesty in right of Canada.
 
-
 ------
 
 ## Licence
