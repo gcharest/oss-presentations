@@ -180,9 +180,15 @@ It's in the Directive on Management of IT
 
 ------
 
->If you want to be at the top of the world, you have to start there.
+>Aspiring to world class is not enough, when everyone else starts there
 
 Jeff McAffer, formerly Director of Microsoft's Open Source Program Office
+
+------
+
+>It's all about software engineering economics
+
+Stephen Walli, Principal Program Manager at Microsoft
 
 ---
 
