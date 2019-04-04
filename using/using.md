@@ -136,26 +136,48 @@ Note:
 
 ## Why bother
 
+It looks like a lot of work...
+
 ---
 
 ## Second Challenge
 
-TODO:
+Build a Web application that generates surveys.
 
-Build a Web application that asks for today's date and displays which day it is within the next 5 minutes on your local machine.
+The application should have:
 
-The application should have user authentication, content administration, security builtin.
+* User authentication
+* Graphical user interface to generate the surveys.
+* Administration interface
+* Security builtin
 
----
+Don't worry about the look and feel.
 
-## Step by steps
+------
 
-TODO:
+You can just clone this repository
 
-1. Create venv
-2. Install packages
-3. Run Django build
-4. Update the view with name and course title
+[https://github.com/canada-ca/aia-eia.git](https://github.com/canada-ca/aia-eia.git)
+
+------
+
+And follow the instructions:
+
+
+
+------
+
+In the `ogc_aia` folder, rename the file:
+
+`sample_settings.py`
+
+to
+
+`settings.py`
+
+------
+
+
 
 ---
 
