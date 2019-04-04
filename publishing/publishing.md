@@ -107,10 +107,42 @@ Source: [Guide: Select Open Source Software Licence](https://github.com/canada-c
 
 ## Security
 
-* Access management strategy (SaaS)
-  * Use 2FA
+* Access management (SaaS)
+  * Use 2FA when possible
+  * Have multiple admins
+  * Revoke access when no longer needed
 * Scan your dependencies
-* Have a backup plan
+
+------
+
+## Security /2
+
+* Sensitive data
+  * Source code should be **Unclassified**
+  * Invalidate tokens and passwords
+  * Remove info and clear history
+  * Assess impact of leaked private info
+
+------
+
+## Security /3
+
+* Add a SECURITY.md file
+* 3rd party apps and services
+* Add security testing to Pull Requests
+
+------
+
+## Security /4
+
+* Work in the open with security in mind
+* Review and clean up your code before importing it to a public repo
+
+------
+
+## Security Cheatsheet
+
+[snyk - 10 GitHub Security Best Practices](https://res.cloudinary.com/snyk/image/upload/v1535626770/blog/10_GitHub_Security_Best_Practices_cheat_sheet.pdf)
 
 ---
 
@@ -118,11 +150,11 @@ Source: [Guide: Select Open Source Software Licence](https://github.com/canada-c
 
 This is still your team's project but you may want open up to external contributions
 
-Adapt your workflow but you still have the last word
+You can adapt your workflow but you still have the last word
 
 Note:
 
-It does mean opening up your workflow to review issues and pull requests
+It does mean opening up your workflow to include review of external issues and pull requests
 
 ---
 
