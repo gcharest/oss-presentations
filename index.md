@@ -16,3 +16,7 @@ But you can see the entire history on the GitHub repo as it's built 100% in the 
 ## Back to the Digital Academy
 
 [This way!](https://github.com/CSPS-EFPC-DAAN/DevOps)
+
+### Additional links
+
+[Demo Instructions](instructions.html)

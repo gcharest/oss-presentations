@@ -163,21 +163,7 @@ You can just clone this repository
 
 And follow the instructions:
 
-
-
-------
-
-In the `ogc_aia` folder, rename the file:
-
-`sample_settings.py`
-
-to
-
-`settings.py`
-
-------
-
-
+[Instructions](instructions.md)
 
 ---
 
@@ -288,6 +274,8 @@ Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source So
 Find the errors
 
 >Clone projects
+
+
 
 Note:
 

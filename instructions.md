@@ -1,4 +1,10 @@
+---
+title: Python/Django Demo
+layout: default
+---
 # Instructions
+
+[Back home](.)
 
 You can clone this repository
 

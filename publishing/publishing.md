@@ -56,13 +56,16 @@ Which did you pick and why?
 
 Technically, the work we do in the office is Crown Copyright, it belongs to Her Majesty in right of Canada.
 
+
 ------
 
 ## Licence
 
-The licence you choose has to be applied by someone with the delegated authority from the Crown.
+The licence you choose has to be applied by the owner's duly authorized agent.
 
-Typically an Assistant Deputy Minister or someone with the delegated authority.
+Typically, this is an Assistant Deputy Minister or someone with the delegated authority in your department, like for Open Data.
+
+Source: [Copyright Act - Section 13(4)](https://laws-lois.justice.gc.ca/eng/acts/C-42/page-4.html#s-13ss-(4)ID0EBFA)
 
 ---
 
