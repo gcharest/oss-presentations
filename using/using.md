@@ -186,6 +186,13 @@ Jeff McAffer, formerly Director of Microsoft's Open Source Program Office
 
 ------
 
+>* 96 percent of the scanned applications contain open source components, with an average 257 components per application, and that
+>* The average percentage of open source in the codebases of the applications scanned grew from 36% last year to 57%, suggesting that a large number of applications now contain much more open source than proprietary code.
+
+[2018 Open Source Security and Risk Analysis](https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/2018-ossra.pdf), Synopsys Center for Open Source Research & Innovation
+
+------
+
 >It's all about software engineering economics
 
 Stephen Walli, Principal Program Manager at Microsoft
