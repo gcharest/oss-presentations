@@ -297,8 +297,6 @@ Find the errors
 
 >Clone projects
 
-
-
 Note:
 
 Error 1: Known security vulnerability
