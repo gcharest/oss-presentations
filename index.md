@@ -12,6 +12,7 @@ But you can see the entire history on the GitHub repo as it's built 100% in the 
 * [Using Open Source Software](using/index.html)
 * [Publishing a Project as Open Source](publishing/index.html)
 * [Contributing to an Open Source Project](contributions/index.html)
+* [3 Pillars of a Digital Government](3-pillars/index.html)
 
 ## Back to the Digital Academy
 
