@@ -180,9 +180,31 @@ It's in the Directive on Management of IT
 
 ------
 
->If you want to be at the top of the world, you have to start there.
+>Aspiring to world class is not enough, when everyone else starts there
 
 Jeff McAffer, formerly Director of Microsoft's Open Source Program Office
+
+------
+
+[2018 Open Source Security and Risk Analysis](https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/2018-ossra.pdf), Synopsys Center for Open Source Research & Innovation
+
+------
+
+>96 percent of the scanned applications contain open source components, with an average 257 components per application, and that
+
+HelpNetSecurity - [The percentage of open source code in proprietary apps is rising](https://www.helpnetsecurity.com/2018/05/22/open-source-code-security-risk/)
+
+------
+
+>The average percentage of open source in the codebases of the applications scanned grew from 36% last year to 57%, suggesting that a large number of applications now contain much more open source than proprietary code.
+
+HelpNetSecurity - [The percentage of open source code in proprietary apps is rising](https://www.helpnetsecurity.com/2018/05/22/open-source-code-security-risk/)
+
+------
+
+>It's all about software engineering economics
+
+Stephen Walli, Principal Program Manager at Microsoft
 
 ---
 
@@ -274,8 +296,6 @@ Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source So
 Find the errors
 
 >Clone projects
-
-
 
 Note:
 
