@@ -2,9 +2,11 @@
 title: Open Source Software Presentations
 layout: default
 ---
+<!--markdownlint-disable MD025-->
 # Open Source Software Presentations
+<!--markdownlint-enable MD025-->
 
-Watch out, live content below! 
+Watch out, live content below!
 
 Yes, it's actually still evolving and will continue to do so!
 But you can see the entire history on the GitHub repo as it's built 100% in the open.
