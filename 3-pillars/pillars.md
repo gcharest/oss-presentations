@@ -2,13 +2,19 @@
 
 <!--markdownlint-disable MD035-->
 
-------
+## Guillaume Charest
 
-![GC Digital Standards](../assets/digital_standards.png)
+Technical Advisor, ESDC
+
+Formerly: Lead, Open Source Software, TBS
 
 ---
 
 ## Cloud
+
+------
+
+![GC Digital Standards](../assets/digital_standards.png)
 
 Note:
 
@@ -71,8 +77,13 @@ Cloud is a modern way to manage deployment of your solutions:
 
 ## DevOps
 
+------
+
+![GC Digital Standards](../assets/digital_standards.png)
+
 Note:
-Digital Standards:
+
+Digital Standards
 
 * Iterate and improve frequently
 * Work in the open by default (inner source)
@@ -111,9 +122,10 @@ Note:
 
 > Feedback from right to left as fast as possible
 
-* Continuous Integration (CI) and Continuous Delivery (CD):
+* Continuous Integration (CI) and Continuous Delivery (CD)
+  * Use Git! (credit: Calvin Rodo's presentation this morning)
   * Peer reviews (Pull Request!)
-  * Automated tests (Known Security vulnerabilities, spelling, formatting, secret keys, patterns, licence compliance, etc.)
+  * Automated tests (Known Security vulnerabilities, accessibilities, spelling, formatting, secrets, licence compliance, etc.)
 
 Note:
 
@@ -126,7 +138,7 @@ The limits here are your imagination and this can include practitioners from all
 > Safe place to try, experiment and learn
 
 * Tools
-* Environment
+* Environments
 * Time
 
 Note:
@@ -162,9 +174,9 @@ References:
 
 ## Open Source Software
 
->Software available under an open source licence.
+------
 
-For the purpose of the Government of Canada, we consider the Open Source Initiative's [definition](https://opensource.org/docs/definition.php) the current standard.
+![GC Digital Standards](../assets/digital_standards.png)
 
 Note:
 
@@ -176,6 +188,12 @@ Digital Standards
 * Address security and privacy risks
 * Empower staff to deliver better services
 * Collaborate widely
+
+------
+
+>Software available under an open source licence.
+
+For the purpose of the Government of Canada, we consider the Open Source Initiative's [definition](https://opensource.org/docs/definition.php) the current standard.
 
 ------
 
@@ -241,7 +259,7 @@ Note:
 
 ---
 
-## Why bother
+## Why bother using OSS
 
 It looks like a lot of work...
 
@@ -249,7 +267,7 @@ It looks like a lot of work...
 
 ## Why
 
-Well, it's in the updated Directive on Management of IT, so I guess you should it...
+Well, it's in the updated Directive on Management of IT and will be in the Digital Policy, so I guess you should do it?
 
 ------
 
@@ -280,13 +298,21 @@ HelpNetSecurity - [The percentage of open source code in proprietary apps is ris
 
 HelpNetSecurity - [The percentage of open source code in proprietary apps is rising](https://www.helpnetsecurity.com/2018/05/22/open-source-code-security-risk/)
 
-------
+---
+
+## Why bother working in the open
 
 >It's all about software engineering economics
 
 Stephen Walli, Principal Program Manager at Microsoft
 
----
+Note:
+
+* Private sector companies did not suddenly become altruistic.
+* They're still interest in bottom line.
+* Which is why they release open source and nurture communities
+
+------
 
 ## How
 
@@ -299,7 +325,7 @@ By using:
 * Social Development Platforms
   * GitHub, GitLab, BitBucket, GCcode*
 
----
+------
 
 ## Be secure
   
@@ -310,6 +336,7 @@ By using:
 Note:
 
 Equifax - The vulnerability was known 2 months before the hack started...
+Hint: this can be automated...
 
 ------
 
