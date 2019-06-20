@@ -166,6 +166,17 @@ References:
 
 For the purpose of the Government of Canada, we consider the Open Source Initiative's [definition](https://opensource.org/docs/definition.php) the current standard.
 
+Note:
+
+Digital Standards
+
+* Iterate and improve frequently
+* Work in the open by default
+* Use open standards and solutions
+* Address security and privacy risks
+* Empower staff to deliver better services
+* Collaborate widely
+
 ------
 
 ## Basic Rights
@@ -298,7 +309,7 @@ By using:
 
 Note:
 
-Equifax
+Equifax - The vulnerability was known 2 months before the hack started...
 
 ------
 
@@ -378,44 +389,3 @@ Depends on:
 * GNU Affero General Public License v3 (AGPL-3.0)
 
 Source: [Guide: Select Open Source Software Licence](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/publishing-open-source-code.md#select-open-source-software-licence)
-
----
-
-## Security
-
-* Access management (SaaS)
-  * Use 2FA when possible
-  * Have multiple admins
-  * Revoke access when no longer needed
-* Scan your dependencies
-
-------
-
-## Security /2
-
-* Sensitive data
-  * Source code should be **Unclassified**
-  * Invalidate tokens and passwords
-  * Remove info and clear history
-  * Assess impact of leaked private info
-
-------
-
-## Security /3
-
-* Add a SECURITY.md file
-* 3rd party apps and services
-* Add security testing to Pull Requests
-
-------
-
-## Security /4
-
-* Work in the open with security in mind
-* Review and clean up your code before importing it to a public repo
-
-------
-
-## Security Cheatsheet
-
-[snyk - 10 GitHub Security Best Practices](https://res.cloudinary.com/snyk/image/upload/v1535626770/blog/10_GitHub_Security_Best_Practices_cheat_sheet.pdf)
