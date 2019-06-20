@@ -76,11 +76,11 @@ Inbound vs Outbound
 
 ------
 
-![software architecture](soft-arch.png)
+![software architecture](../assets/soft-arch.png)
 
 ------
 
-![due diligence](due-diligence.png)
+![due diligence](../assets/due-diligence.png)
 
 Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 54.
 

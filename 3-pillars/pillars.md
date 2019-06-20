@@ -115,7 +115,7 @@ Note:
 
 ------
 
-![Continuous Learning](learning.png)
+![Continuous Learning](../assets/learning.png)
 
 ------
 
@@ -318,22 +318,84 @@ The terms and conditions under which you will be distributing your software must
 
 ------
 
-![software architecture](soft-arch.png)
+![software architecture](../assets/soft-arch.png)
 
 ------
 
-![due diligence](due-diligence.png)
+![due diligence](../assets/due-diligence.png)
 
 Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
 
 ------
 
-![non compliant example](apache2-gpl-error.png)
+![non compliant example](../assets/apache2-gpl-error.png)
 
 Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
 
 ------
 
-![compliant example](apache2-gpl-ok.png)
+![compliant example](../assets/apache2-gpl-ok.png)
 
 Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
+
+------
+
+## Choice
+
+Depends on:
+
+* the open source components your using
+* your business goals
+
+------
+
+## Recommended in the GC
+
+* MIT License (Expat)
+* Apache License 2.0 (Apache-2.0)
+* GNU Lesser General Public License v3 (LGPL-3.0)
+* GNU General Public License v3 (GPL-3)
+* GNU Affero General Public License v3 (AGPL-3.0)
+
+Source: [Guide: Select Open Source Software Licence](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/publishing-open-source-code.md#select-open-source-software-licence)
+
+---
+
+## Security
+
+* Access management (SaaS)
+  * Use 2FA when possible
+  * Have multiple admins
+  * Revoke access when no longer needed
+* Scan your dependencies
+
+------
+
+## Security /2
+
+* Sensitive data
+  * Source code should be **Unclassified**
+  * Invalidate tokens and passwords
+  * Remove info and clear history
+  * Assess impact of leaked private info
+
+------
+
+## Security /3
+
+* Add a SECURITY.md file
+* 3rd party apps and services
+* Add security testing to Pull Requests
+
+------
+
+## Security /4
+
+* Work in the open with security in mind
+* Review and clean up your code before importing it to a public repo
+
+------
+
+## Security Cheatsheet
+
+[snyk - 10 GitHub Security Best Practices](https://res.cloudinary.com/snyk/image/upload/v1535626770/blog/10_GitHub_Security_Best_Practices_cheat_sheet.pdf)

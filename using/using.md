@@ -44,7 +44,7 @@ What is open source software?
 
 ## Simplified View
 
-![software simplified view](algo-code-soft.png)
+![software simplified view](../assets/algo-code-soft.png)
 
 ---
 
@@ -269,23 +269,23 @@ The terms and conditions under which you will be distributing your software must
 
 ------
 
-![software architecture](soft-arch.png)
+![software architecture](../assets/soft-arch.png)
 
 ------
 
-![due diligence](due-diligence.png)
+![due diligence](../assets/due-diligence.png)
 
 Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
 
 ------
 
-![non compliant example](apache2-gpl-error.png)
+![non compliant example](../assets/apache2-gpl-error.png)
 
 Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
 
 ------
 
-![compliant example](apache2-gpl-ok.png)
+![compliant example](../assets/apache2-gpl-ok.png)
 
 Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
 
