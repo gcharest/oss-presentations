@@ -13,6 +13,11 @@
 Note:
 
 I won't sell you Cloud too much, there are many other sessions way more interesting than mine
+From a Digital Standards perspective:
+
+* Iterate and improve frequently
+* Use open standards and solutions
+* Address security and privacy risks
 
 ------
 
@@ -51,8 +56,7 @@ Note:
 
 ### Time to market
 
-Main benefit still is **Time to Market**
-
+* Main benefit still is **Time to Market**
 * Around 5 minutes to spin a fully configured VM
 * Days, Weeks to have a physical server delivered and configured
   * (Not bashing, just laws of physics)
@@ -68,8 +72,14 @@ Cloud is a modern way to manage deployment of your solutions:
 ## DevOps
 
 Note:
+Digital Standards:
 
-Again, way more talented experts in other rooms here
+* Iterate and improve frequently
+* Work in the open by default (inner source)
+* Use open standards and solutions
+* Address security and privacy risks
+* Empower staff to deliver better services
+* Collaborate widely
 
 ------
 
@@ -77,7 +87,7 @@ Again, way more talented experts in other rooms here
 
 1. Accelerate the delivery of value
 2. Feedback Loops
-3. Experimentation and Continual Learning
+3. Experimentation and Continuous Learning
 
 ------
 
@@ -93,6 +103,7 @@ Note:
 
 1. Bug fixes, new feature, refactoring, etc.
 2. Less WIP = Higher quality
+3. Automated builds (no more build books...), infrastructure as code, etc.
 
 ------
 
@@ -100,18 +111,27 @@ Note:
 
 > Feedback from right to left as fast as possible
 
-* Continuous Integration (CI) and Continuous Delivery (CD)
+* Continuous Integration (CI) and Continuous Delivery (CD):
+  * Peer reviews (Pull Request!)
+  * Automated tests (Known Security vulnerabilities, spelling, formatting, secret keys, patterns, licence compliance, etc.)
 
-------
+Note:
 
-1. Peer reviews (Pull Request!)
-2. Automated tests
+The limits here are your imagination and this can include practitioners from all around your DevOps.
 
 ------
 
 #### Experimentation and Continual Learning
 
 > Safe place to try, experiment and learn
+
+* Tools
+* Environment
+* Time
+
+Note:
+
+I would also add "Safe space to share": Work in the open
 
 ------
 
@@ -127,7 +147,7 @@ Note:
 
 * Understand that you can't do it all alone
 * We are all in it together
-* More releases supports our views of
+* More releases supports our views of a more robust product and service to our users
 
 ------
 
