@@ -2,6 +2,10 @@
 
 <!--markdownlint-disable MD035-->
 
+------
+
+![GC Digital Standards](../assets/digital_standards.png)
+
 ---
 
 ## Cloud
