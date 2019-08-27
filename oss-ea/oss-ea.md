@@ -1,189 +1,150 @@
-# Publishing your project as Open Source
+## Open Source Software
 
-<!--markdownlint-disable MD035-->
+Using, Contributing, Publishing
+
+--
+
+[Draft Guidance](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/README.md)
 
 ---
 
-## Why
+## Open Source Software
 
-------
+>Software available under an open source licence.
 
-Directive on Management of Information Technology
+For the purpose of the Government of Canada, we consider the Open Source Initiative's [definition](https://opensource.org/docs/definition.php) the current standard.
 
->C.2.3.8.3 If a custom-built application is the appropriate option, by default any source code written by the government must be released in an open format via Government of Canada websites and services designated by the Treasury Board of Canada Secretariat
+--
 
-------
+## Basic Rights
 
-Directive on Management of Information Technology
+1. Use the software as you wish
+2. Study the source code
+3. Modify the source code
+4. Redistribute the software
 
->C.2.3.8.4 All source code must be released under an appropriate open source software license
+--
 
-------
+## Conditions
 
-* Encourages [best coding practices](https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)
-* It aligns with our goal of being an open government by releasing [data and information of value to citizens](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108#sec5.1).
-* Find people with similar problems that could be interested in helping you ([ORE](https://github.com/canada-ca/ore-ero))
-* Find new usage to your software ([AIA](https://github.com/canada-ca/aia-eia-js))
+1. Notice
+2. Derived work's licence
 
 Note:
 
-* UK Ministry of Justice found that the quality and readability of their code improved
-* Government wants to be more transparent but also bring value to its work
-* ORE found partners in cities across the country
-* People found that the AIA could be leveraged for other assessments
+Depends on type of licence (see below)
+
+--
+
+## It's not open source
+
+If you only have access to the source code.
+
+>You **must** have the rights based on an open source licence.
 
 ---
 
-## Hands-on
+## Types of Open Source Licences
 
-Let's start by creating a repository and uploading your project.
+--
 
-Note:
+### Permissive
 
-(On screen step-by-step demo using first project)
+>Allows you to do pretty much what you want with it and distribute it under different conditions than you obtained it.
 
-------
+--
 
-Add a licence of your choice.
+### Reciprocal (Copyleft)
 
-------
+>Allow you to do pretty much the same but require you to redistribute on the same conditions under which you obtained it.
 
-Which did you pick and why?
+--
 
----
-
-## Crown Copyright
-
-Technically, the work we do in the office is Crown Copyright, it belongs to Her Majesty in right of Canada.
-
-------
-
-## Licence
-
-The licence you choose has to be applied by the owner's duly authorized agent.
-
-Typically, this is an Assistant Deputy Minister or someone with the delegated authority in your department, like for Open Data.
-
-Source: [Copyright Act - Section 13(4)](https://laws-lois.justice.gc.ca/eng/acts/C-42/page-4.html#s-13ss-(4)ID0EBFA)
-
----
-
-## Compliance
-
-Remember:
-
-Inbound vs Outbound
-
-------
-
-![software architecture](../assets/soft-arch.png)
-
-------
-
-![due diligence](../assets/due-diligence.png)
-
-Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 54.
-
-------
-
-## Choice
-
-Depends on:
-
-* the open source components your using
-* your business goals
-
-------
-
-## Recommended in the GC
+## Commonly known licences
 
 * MIT License (Expat)
 * Apache License 2.0 (Apache-2.0)
-* GNU Lesser General Public License v3 (LGPL-3.0)
+* BSD 3-Clause License (Revised)
+* Mozilla Public License 2.0 (MPL-2.0)
 * GNU General Public License v3 (GPL-3)
 * GNU Affero General Public License v3 (AGPL-3.0)
 
-Source: [Guide: Select Open Source Software Licence](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/publishing-open-source-code.md#select-open-source-software-licence)
-
----
-
-## Security
-
-* Access management (SaaS)
-  * Use 2FA when possible
-  * Have multiple admins
-  * Revoke access when no longer needed
-* Scan your dependencies
-
-------
-
-## Security /2
-
-* Sensitive data
-  * Source code should be **Unclassified**
-  * Invalidate tokens and passwords
-  * Remove info and clear history
-  * Assess impact of leaked private info
-
-------
-
-## Security /3
-
-* Add a SECURITY.md file
-* 3rd party apps and services
-* Add security testing to Pull Requests
-
-------
-
-## Security /4
-
-* Work in the open with security in mind
-* Review and clean up your code before importing it to a public repo
-
-------
-
-## Security Cheatsheet
-
-[snyk - 10 GitHub Security Best Practices](https://res.cloudinary.com/snyk/image/upload/v1535626770/blog/10_GitHub_Security_Best_Practices_cheat_sheet.pdf)
-
----
-
-## Governance
-
-This is still your team's project but you may want open up to external contributions
-
-You can adapt your workflow but you still have the last word
+Use [TL;DR Legal](https://tldrlegal.com)
 
 Note:
 
-It does mean opening up your workflow to include review of external issues and pull requests
+* First three are permissive
+* Last three are reciprocal
 
 ---
 
-## Community management
+## Using
 
-Working in the open is subject to receiving feedback and contributions
+without modifications
 
-You should consider managing expectations and the community that may coalesce round your project
+--
+
+>Provided 'as-is'
+
+Consider the software with the same responsibility lenses as if you had written it.
+
+--
+
+[Excerpt from US Defense OSS FAQ](https://dodcio.defense.gov/Open-Source-Software-FAQ/#Q:_Is_open_source_software_commercial_software.3F_Is_it_COTS.3F):
+> Open source software that has at least one non-governmental use, and has been or is available to the public, is commercial software. If it is already available to the public and is used unchanged, it is usually COTS.
+
+--
+
+| Standalone | Combination of components | Development and deployment |
+| ---------- | ------------------------- | -------------------------- |
+| Web browser, Productivity suite, Operating system and utilities (Window manager, Desktop environment, Text editor, Console..), .. | Application and plugins with database and web server | Custom development using open source software programming languages and dependencies, HTTP server, Database management system, Container platform |
+
+--
+
+# Support Model
+
+Internal or External
 
 ---
 
-## Files to include
+## Using
 
-* LICENCE
-* README.md
-* CONTRIBUTING.md
-* SECURITY.md
-* CODE_OF_CONDUCT.md*
+with modifications
 
-------
+--
 
-Let's have a look at your projects
+## Considerations
 
----
+See [Draft Guidelines on Licences](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/using-open-source-software.md#verify-open-source-software-ownership-or-licence)
 
-## Templates
 
-[Canada-ca Templates](https://github.com/canada-ca/template-gabarit)
+--
 
-<!--markdownlint-enable MD035-->
+You're working in the open:
+
+--
+
+## Why bother
+
+> It looks like a lot of work...
+
+--
+
+Technically, you manages thousands of licences already...
+
+--
+
+* Don't start with a blank canvas, focus on the added value
+* Speed up development time by reusing existing solutions to common problems
+* Leverage a large community of peers to enhance quality and for wider maintenance
+* Build on top of giants' shoulders and communities
+
+--
+
+> Aspiring to world class is not enough, when everyone else starts there
+
+Jeff McAffer, formerly Director of Microsoft's Open Source Program Office
+
+-- 
+
+[2018 Open Source Security and Risk Analysis](https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/2018-ossra.pdf), Synopsys Center for Open Source Research & Innovation
