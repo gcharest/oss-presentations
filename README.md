@@ -1,4 +1,6 @@
 # Digital Academy Open Source Software Presentations
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgcharest%2Foss-presentations.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgcharest%2Foss-presentations?ref=badge_shield)
+
 
 This project is the host of the presentations that will be delivered during the Digital Academy course for the DevOps stream in April 2019.
 
@@ -21,3 +23,7 @@ Then, run the following to have the local server started up:
 You should be able to access the site at the following address:
 
 [http://127.0.0.1:4000/oss-presentations/](http://127.0.0.1:4000/oss-presentations/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgcharest%2Foss-presentations.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgcharest%2Foss-presentations?ref=badge_large)
