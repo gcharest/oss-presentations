@@ -8,7 +8,7 @@ Using, Contributing, Publishing
 
 ---
 
-## Open Source Software
+## Defintiion
 
 >Software available under an open source licence.
 
@@ -178,7 +178,7 @@ Note:
 
 Jeff McAffer, formerly Director of Microsoft's Open Source Program Office
 
---- 
+---
 
 [2018 Open Source Security and Risk Analysis](https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/2018-ossra.pdf), Synopsys Center for Open Source Research & Innovation
 
