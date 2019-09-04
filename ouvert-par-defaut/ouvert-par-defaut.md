@@ -84,31 +84,10 @@ Jusqu'à présent, les guides établis au GC considèrent les licences de la Ope
 
 1. Utiliser le logiciel comme vous le voulez
 2. Étudier le code source
-3. Modify the source code
-4. Redistribute the software
+3. Modifier le code source
+4. Redistribuer le logiciel
 
---
-
-### Utilisation
-
---
-
-## Open Source Software
-
->Software available under an open source licence.
-
-For the purpose of the Government of Canada, we consider the Open Source Initiative's [definition](https://opensource.org/docs/definition.php) the current standard.
-
---
-
-## Basic Rights
-
-1. Use the software as you wish
-2. Study the source code
-3. Modify the source code
-4. Redistribute the software
-
---
+---
 
 ## Conditions
 
@@ -118,6 +97,10 @@ For the purpose of the Government of Canada, we consider the Open Source Initiat
 Note:
 
 Depends on type of licence (see below)
+
+--
+
+### Utilisation
 
 --
 
