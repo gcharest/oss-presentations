@@ -1,6 +1,6 @@
 # Ouvert par défaut
 
-**Guillaume Charest**
+## Guillaume Charest
 
 Conseiller principal, Emploi et développement social Canada
 
@@ -30,7 +30,7 @@ Note:
 
 4 décembre 2018:
 
-Mise à jour de la [Directive sur la gestion des technologies de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249) 
+Mise à jour de la [Directive sur la gestion des technologies de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249)
 
 1 avril 2020:
 
@@ -88,7 +88,8 @@ Note:
 
 Note:
 
-Petite parenthèse - Combien sont familiers avec logiciels libres?
+- Petite parenthèse - Combien sont familiers avec logiciels libres?
+- Concept méconnu au Gouvernement du Canada
 
 ---
 
@@ -111,7 +112,7 @@ La Beer Licence, pas une bonne idée
 
 ---
 
-## Conditions
+### Conditions
 
 1. Avis
 2. Licence pour le travail dérivé
@@ -134,7 +135,7 @@ Ex.: Droits négociés lors de contrats
 
 ---
 
-## Types de licences libres
+### Types de licences libres
 
 ---
 
@@ -150,14 +151,14 @@ Ex.: Droits négociés lors de contrats
 
 ---
 
-## Licences très connues
+### Licences très connues
 
-* MIT License (Expat)
-* Apache License 2.0 (Apache-2.0)
-* BSD 3-Clause License (Revised)
-* Mozilla Public License 2.0 (MPL-2.0)
-* GNU General Public License v3 (GPL-3)
-* GNU Affero General Public License v3 (AGPL-3.0)
+- MIT License (Expat)
+- Apache License 2.0 (Apache-2.0)
+- BSD 3-Clause License (Revised)
+- Mozilla Public License 2.0 (MPL-2.0)
+- GNU General Public License v3 (GPL-3)
+- GNU Affero General Public License v3 (AGPL-3.0)
 
 Utilisez [TL;DR Legal](https://tldrlegal.com) pour faciliter votre recherche
 
@@ -166,80 +167,178 @@ Note:
 - 3 premières sont permissives
 - 3 dernières sont réciproques
 
---
+---
 
 ### Utilisation
 
----
+>Partagé 'tel quel'
 
+Considérez votre responsabilité d'utilisation de la même façon que si vous l'aviez développé vous-même
 
-## Using
+Note:
 
-without modifications
-
---
-
->Provided 'as-is'
-
-Consider the software with the same responsibility lenses as if you had written it.
-
---
-
-[Excerpt from US Defense OSS FAQ](https://dodcio.defense.gov/Open-Source-Software-FAQ/#Q:_Is_open_source_software_commercial_software.3F_Is_it_COTS.3F):
-> Open source software that has at least one non-governmental use, and has been or is available to the public, is commercial software. If it is already available to the public and is used unchanged, it is usually COTS.
-
---
-
-| Standalone | Combination of components | Development and deployment |
-| ---------- | ------------------------- | -------------------------- |
-| Web browser, Productivity suite, Operating system and utilities (Window manager, Desktop environment, Text editor, Console..), .. | Application and plugins with database and web server | Custom development using open source software programming languages and dependencies, HTTP server, Database management system, Container platform |
-
---
-
-# Support Model
-
-Internal or External
+Possible de discuter l'utilisation après la présentation
 
 ---
 
-## Using
+### Avec ou sans modification
 
-with modifications
+Contribuez aux projets que vous utilisez
+
+Note:
+
+- C'est la bonne chose à faire
+- Vous transférer la maintenance du projet à la communauté
+  - Code
+  - Documentation
+  - Bogues
+  - Idées
+  - Traduction
+  - Accessibilité
+  - Financement de projets si possible
+
+---
+
+[Extrait du département de la FAQ Logiciels Libres de la défense des É.-U.](https://dodcio.defense.gov/Open-Source-Software-FAQ/#Q:_Is_open_source_software_commercial_software.3F_Is_it_COTS.3F):
+> Les logiciels libres qui ont au moins un usage non gouvernemental et qui ont été ou sont mis à la disposition du public sont des logiciels commerciaux. S'il est déjà mis à la disposition du public et qu'il est utilisé tel quel, il s'agit habituellement d'un système commercial.
+
+---
+
+>Viser à être une organisation de niveau mondiale n'est pas suffisant quand tout le monde y commence
+
+Jeff McAffer, ancien Directeur du Bureau de programme de logiciels libres, Microsoft
+
+Source: [Présentation](https://canada-ca.github.io/ofd-joep/en/open-first-day-agenda-details.html#open-source-at-scale) (Anglais)
+
+Note:
+
+Son point étant:
+
+- Les logiciels libres sont maintenant utilisés dans pratiquement toutes les solutions disponibles
+- La qualité des logiciels libres surpasse un projet interne à ressources limités
+- Intelligence artificielle, infonuagique, chaines de bloc (blockchain), etc.
+
+---
+
+> C'est essentiellement les sciences économiques appliquées au génie logiciel
+
+Stephen Walli, Gestionnaire principal de programme, Microsoft
+
+Source: [Présentation](https://canada-ca.github.io/ofd-joep/en/open-first-day-agenda-details.html#the-engineering-economics-of-open-source) (Anglais)
+
+Note:
+
+Son point étant:
+
+- Impossible d'embaucher tout le monde
+- Développement logiciel de qualité est difficile
+- Focus sur la valeur ajoutée
 
 --
 
-## Considerations
+## Travailler ouvertement
 
-See [Draft Guidelines on Licences](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/using-open-source-software.md#verify-open-source-software-ownership-or-licence)
+Note:
 
+- Pourquoi je vous ai parlé autant de logiciels libres?
+- Pas une panacée
+- C'est une façon de travailler plus qu'un logiciel
+
+---
+
+Transparence et Confiance
+
+Note:
+
+- Plus de 10 ans au gouvernement fédéral
+- N'était pas dans mes plans de carrière
+- Le portrait social a drastiquement changé
+  - Fausse nouvelles
+  - Collusion
+  - Jeux de pouvoir
+  - Changement d'administrations
+- La lumière est le meilleur désinfectant
+
+---
+
+Interopérabilité
+
+Note:
+
+- Architectures orientées service
+- Micro-services
+- Découplement des solutions
+- Interfaces de programmation (APIs)
+  - Réutilisation des services
+- Diminuer situation de verrouillage envers les vendeurs
+  - Toujours verrouillage possible (technologie, produit, formats, etc.)
+
+---
+
+Collaboration
+
+Note:
+
+- Ressources limitées
+- Défis sont croissants
+  - Attentes du public
+  - Rapidité des changements technologiques
+  - Implications légales et éthiques
+- DevOps
+
+---
+
+Logiciels libres
+
+Note:
+
+- Résoudre des problèmes communs de façon ouverte
+- Coalescence naturelle vers les projets
 
 --
 
-You're working in the open:
+## Exemples de projets
+
+---
+
+### Évaluation de l'Incidence Algorithmique
+
+Projet lancé pour l'utilisation responsable et éthique de l'intelligence artificielle
+
+Licence: MIT
+
+Cité: [Observatoire de l'innovation du secteur publique](https://oecd-opsi.org/toolkits/algorithmic-impact-assessment/)
+
+Note:
+
+- 2 développeurs
+- 3 semaines à temps partiel
+- Librairies de logiciels libres
+  - Vue.js
+  - Survey.js
+  - [Boîte à outils de l'expérience Web](https://wet-boew.github.io/v4.0-ci/index-fr.html)
+- Contributions:
+  - 8 contributeurs externes
+
+---
+
+### Échange de ressources ouvert
+
+Projet lancé pour partager nos ressources ouvertement au Canada
+
+- Projets de logiciels libres **créés** par les administrations publiques
+- Logiciels libres tiers **utilisés** par les administrations publiques
+- Normes ouvertes utilisés dans les administrations publiques
+
+Licence: MIT
+
+Note:
+
+- 1 employé à temps partiel
+- Montréal rejoint le projet
+- Edmonton
+- 20 contributeurs/contributrices en tout
 
 --
 
-## Why bother
-
-> It looks like a lot of work...
-
---
-
-Technically, you manages thousands of licences already...
-
---
-
-* Don't start with a blank canvas, focus on the added value
-* Speed up development time by reusing existing solutions to common problems
-* Leverage a large community of peers to enhance quality and for wider maintenance
-* Build on top of giants' shoulders and communities
-
---
-
-> Aspiring to world class is not enough, when everyone else starts there
-
-Jeff McAffer, formerly Director of Microsoft's Open Source Program Office
-
--- 
-
-[2018 Open Source Security and Risk Analysis](https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/2018-ossra.pdf), Synopsys Center for Open Source Research & Innovation
+## Merci
