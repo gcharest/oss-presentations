@@ -8,7 +8,7 @@ Using, Contributing, Publishing
 
 ---
 
-## Defintiion
+## Definition
 
 >Software available under an open source licence.
 
@@ -230,7 +230,7 @@ Transfer the maintenance back to the community
 
 ### Legacy Application
 
-- Maybe a bit harder at firts
+- Maybe a bit harder at first
 - Can be done in small iterations
 - Opportunity to clean up your code
 
