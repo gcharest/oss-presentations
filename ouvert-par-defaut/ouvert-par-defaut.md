@@ -12,11 +12,15 @@ Présentation de la vision pour un gouvernement numérique et comment l’adopti
 
 --
 
+## Vision et Politiques
+
+---
+
 ![Normes numériques du GC](../assets/normes-numeriques.png)
 
 [Lien vers le site des Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html)
 
----
+Note:
 
 - [Travailler ouvertement part défaut]
 - [Utiliser des normes et des solutions ouvertes]
@@ -32,10 +36,20 @@ Mise à jour de la [Directive sur la gestion des technologies de l'information](
 
 Entrée en vigueur de la nouvelle [Directive sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
 
+Note:
+
+Ces directives sont importantes
+
+- Changement drastique direction
+- Force les départements modifier leur approche
 
 ---
 
 [Annexe: Procédures obligatoires pour l'évaluation de l'architecture intégrée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602)
+
+Note:
+
+Donner une approche intégrée pour la gestion des TI
 
 ---
 
@@ -43,7 +57,7 @@ Entrée en vigueur de la nouvelle [Directive sur les services et le numérique](
 
 Note:
 
-1. Logiciel libre
+1. Logiciel libre et normes ouvertes
 2. Logiciel propriétaire avec API, format données standard ouvert
 3. Développement interne relâché publiquement sous licence libre
 
@@ -72,11 +86,19 @@ Note:
 
 ## Logiciels libres
 
+Note:
+
+Petite parenthèse - Combien sont familiers avec logiciels libres?
+
 ---
 
 >Logiciel disponible sous une licence libre
 
-Jusqu'à présent, les guides établis au GC considèrent les licences de la Open Source Initiative et de la Free Software Foundation comme les seules licences acceptées.
+Guides en développement au Gouvernement du Canada considèrent les licences de la *Open Source Initiative* et de la *Free Software Foundation* comme les seules licences acceptées.
+
+Note:
+
+La Beer Licence, pas une bonne idée
 
 ---
 
@@ -91,44 +113,44 @@ Jusqu'à présent, les guides établis au GC considèrent les licences de la Ope
 
 ## Conditions
 
-1. Notice
-2. Derived work's licence
+1. Avis
+2. Licence pour le travail dérivé
 
 Note:
 
-Depends on type of licence (see below)
-
---
-
-### Utilisation
-
---
-
-## It's not open source
-
-If you only have access to the source code.
-
->You **must** have the rights based on an open source licence.
+Dépend du type de licence
 
 ---
 
-## Types of Open Source Licences
+## Ce n'est pas libre
 
---
+Si vous avez seulement accès au code source
+
+>Vous **devez** avoir obtenu les droits basés sur une licence libre
+
+Note:
+
+Ex.: Droits négociés lors de contrats
+
+---
+
+## Types de licences libres
+
+---
 
 ### Permissive
 
->Allows you to do pretty much what you want with it and distribute it under different conditions than you obtained it.
+>Vous permet de faire essentiellement tout ce que vous voulez avec le logiciel et même le distribuer sous une licence différente.
 
---
+---
 
-### Reciprocal (Copyleft)
+### Réciproques (Copyleft)
 
->Allow you to do pretty much the same but require you to redistribute on the same conditions under which you obtained it.
+>Vous permet de faire essentiellement tout ce que vous voulez avec le logiciel **mais** nécessite que la distribution soit faite sous la même licence que vous l'avez obtenu.
 
---
+---
 
-## Commonly known licences
+## Licences très connues
 
 * MIT License (Expat)
 * Apache License 2.0 (Apache-2.0)
@@ -137,14 +159,19 @@ If you only have access to the source code.
 * GNU General Public License v3 (GPL-3)
 * GNU Affero General Public License v3 (AGPL-3.0)
 
-Use [TL;DR Legal](https://tldrlegal.com)
+Utilisez [TL;DR Legal](https://tldrlegal.com) pour faciliter votre recherche
 
 Note:
 
-* First three are permissive
-* Last three are reciprocal
+- 3 premières sont permissives
+- 3 dernières sont réciproques
+
+--
+
+### Utilisation
 
 ---
+
 
 ## Using
 
