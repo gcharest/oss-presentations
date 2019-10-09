@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Open Source Software Presentations
-email: guillaume.charest@tbs-sct.gc.ca
+email: guillaume.charest@hrsdc-rhdcc.gc.ca
 description: >-
     This site hosts the presentations that will be provided during the Open Source Software course for the DevOps stream of the Digital Academy.
 baseurl: "/oss-presentations"
