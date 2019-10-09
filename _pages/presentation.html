@@ -1,0 +1,95 @@
+---
+layout: revealjs
+permalink: /presentation.html
+---
+
+<section id="markdown-slides" data-markdown="" 
+		 data-separator="^\n---\n$" 
+		 data-separator-vertical="^\n--\n$"
+		 data-separator-notes="^Note:">
+</section>
+
+<script>
+
+var whitelist = {
+  'allowedUrls' : ['https://raw.githubusercontent.com/gcharest/'],
+  'allowedGitScope' : ['gcharest']
+};
+
+function getUrlVars() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = value;
+    });
+    return vars;
+}
+
+function getUrlParam(parameter, defaultvalue){
+  var urlparameter = defaultvalue;
+  if(window.location.href.indexOf(parameter) > -1){
+    urlparameter = getUrlVars()[parameter];
+  }
+  return urlparameter;
+}
+
+// The following mode exists (ordered by priority):
+// - markdown : A presentation found in repository folder 'presentation'
+// - url      : A fully qualified URL
+// - gh-scope : A GitHub user/org and repository name. Ex: e-wu/test or sara-sabr/ITStrategy.
+//              Must be paired with gh-file.
+// - gh-file  : A GitHub file path to a md file. (Must be found in master by default)
+// - gh-branch: Another branch
+//
+function getMarkdownLocation() {
+  var urlArguments = getUrlVars();
+  var markdownLocation = "";  
+  var validWhitelist = false;
+
+  if (urlArguments['markdown']) {
+    markdownLocation = urlArguments['markdown'];
+    markdownLocation = "presentations/" + markdownLocation;
+    validWhitelist = true;
+  } else if (urlArguments['url']) {
+    markdownLocation = urlArguments['url'];
+    markdownLocation = decodeURI(markdownLocation);
+
+    whitelist['allowedUrls'].forEach(function (item, index) {
+      if (markdownLocation.indexOf(item) === 0) {
+        validWhitelist = true;
+        return;
+      }      
+    });
+
+  } else if (urlArguments['gh-scope'] && urlArguments['gh-file']) {
+    var branch = urlArguments['gh-branch'] ?  urlArguments['gh-branch'] : 'master';
+    var scope = urlArguments['gh-scope'];
+    scope = decodeURI(scope);
+
+    whitelist['allowedGitScope'].forEach(function (item, index) {
+      if (scope.indexOf(item) === 0) {
+        validWhitelist = true;
+        return;
+      }      
+    });
+
+    markdownLocation = "https://raw.githubusercontent.com/" + scope + "/" + branch + "/" + urlArguments['gh-file'];
+  } 
+  
+  if (!validWhitelist) {
+    alert('Invalid markdown file provided.');
+    return "";
+  }
+
+  markdownLocation = markdownLocation.replace(/\.\./g, "disallowed");
+
+  if (!(markdownLocation.toUpperCase().lastIndexOf(".MD") != -1)) {
+    markdownLocation = markdownLocation + ".md";
+  }
+  
+  return markdownLocation;
+}
+
+var mdFile = getMarkdownLocation();
+
+document.getElementById("markdown-slides").setAttribute("data-markdown", mdFile); 
+</script>
